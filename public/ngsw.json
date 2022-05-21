@@ -1,0 +1,107 @@
+{
+  "configVersion": 1,
+  "timestamp": 1653161429462,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/1.40fbad141a63120726db.js",
+        "/5.32f0b3ff897af9f82190.js",
+        "/6.e024cc2e02b39fb9eac1.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.7d8b955bc226db2fa3af.js",
+        "/manifest.webmanifest",
+        "/polyfills.4e8e126afdc809610c7f.js",
+        "/runtime.d7b7f99d0780ab266bc0.js",
+        "/styles.74c273b1f7eb70cdeae6.css"
+      ],
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/.*"
+      ]
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/carrusel/AZ2FDAV44RG2LBJ3YY3ZI74RKA.jpg",
+        "/assets/carrusel/DSC00923.jpg",
+        "/assets/carrusel/MIBRZVKTY5C7PFZ6AH5Q2WDGSE.jpg",
+        "/assets/formularios/TiposMineros.jpg",
+        "/assets/formularios/condiciones.jpg",
+        "/assets/formularios/formulario.jpg",
+        "/assets/gz_2010_us_outline_5m.json",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/otras/Usericon.png",
+        "/assets/otras/useroutlined.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/1.40fbad141a63120726db.js": "26f659ca0ff518ec5607d5826c6ebd868d58793e",
+    "/5.32f0b3ff897af9f82190.js": "e162b512b08707f6dd10307ffa6f313aaebc5f74",
+    "/6.e024cc2e02b39fb9eac1.js": "73cf1a304ed34adabe3fa3190ca678a2bc55469f",
+    "/assets/carrusel/AZ2FDAV44RG2LBJ3YY3ZI74RKA.jpg": "a2ee6dbe966a620781bd43459adbb66c3e82867b",
+    "/assets/carrusel/DSC00923.jpg": "18a200550aeaa9f916ccbeb973de4f27137e8dda",
+    "/assets/carrusel/MIBRZVKTY5C7PFZ6AH5Q2WDGSE.jpg": "196493945f7114eb85c716e18c24c42bdcb84048",
+    "/assets/formularios/TiposMineros.jpg": "2956599054e317412ece404ede5647c84cd97b64",
+    "/assets/formularios/condiciones.jpg": "7a981753c149e954738f357aac32704e030f95bb",
+    "/assets/formularios/formulario.jpg": "02ae800a8c4a4334148195520f57db0ec943c113",
+    "/assets/gz_2010_us_outline_5m.json": "a8cd59add8baf2cbc8758bafffc43bbc0a21be4f",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/otras/Usericon.png": "3bd4345df1aa6e61c3794db16c05447def8571cf",
+    "/assets/otras/useroutlined.jpg": "95f0f126ea6086633b50b066eed56b3638ba83ea",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "8750e2b76f493785e96fa719215d3502dbd10c8f",
+    "/main.7d8b955bc226db2fa3af.js": "3dfcb73fa63768dcd262e8d312a5648581646f1d",
+    "/manifest.webmanifest": "c7692842b5a67cb129a3ac48638a6f3e1768f987",
+    "/polyfills.4e8e126afdc809610c7f.js": "6f972ee9b232a3744bfac74409816e55db2ad3a0",
+    "/runtime.d7b7f99d0780ab266bc0.js": "f1c755979ddfda24d5a5fada03c1915205583a6a",
+    "/styles.74c273b1f7eb70cdeae6.css": "952af8b088e41506739de5d3e925662b98c4a0f9"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
